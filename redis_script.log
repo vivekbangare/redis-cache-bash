@@ -1,0 +1,17 @@
+2024-06-06 10:06:48 | Added data | key: employee, value: 34
+2024-06-06 10:06:56 | Retrieved data | key: employee, value: 34
+2024-06-06 10:07:41 | Deleted keys matching pattern: employee:*
+2024-06-06 10:11:24 | No keys found for pattern: emp:*
+2024-06-06 10:11:43 | Deleted keys matching pattern: employee:1
+2024-06-06 10:12:23 | Deleted keys matching pattern: employee:*
+2024-06-06 10:14:03 | Removed data | key: ewmployee
+2024-06-06 10:16:22 | Exited script
+2024-06-06 10:30:37 | Exited script
+2024-06-06 11:18:44 | Removed data | key: employee
+2024-06-06 11:19:21 | Removed data | key: 13
+2024-06-06 11:20:08 | Deleted keys matching pattern: employee:1*
+2024-06-06 11:20:45 | Added data | key: name, value: vivek
+2024-06-06 11:24:48 | Exited script
+2024-06-06 11:36:44 | Removed data | key: employee:0
+2024-06-06 11:37:54 | Removed data | key: name
+2024-06-06 11:38:06 | Exited script
